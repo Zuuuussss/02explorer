@@ -30,11 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://zuuuussss.github.io/01explorer/)
+- [Acesse o projeto finalizado, online](https://zuuuussss.github.io/02explorer/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/VF3yFV2OnIUJmNzW92359B/Explorer---Projeto-01-(Copy)?type=design&node-id=1-2&mode=design&t=Bz1NzmRorGZjv5cP-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/eMxnLcnE9ViAqqfr6XeuOY/Explorer---Projeto-02-(Copy)?type=design&node-id=1-5&mode=design&t=XApemElQragy50Ho-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
